@@ -8,9 +8,9 @@ export default class Down extends Component {
             marginLeft: "auto",
             marginRight: "auto",
             resize: "none",
-            padding: "5px"
-            // color: "#212529"
-            // backgroundColor: "#9E9E9E",
+            padding: "5px",
+            color: "#E0E0E0",
+            backgroundColor: "#212121",
         };
 
 
