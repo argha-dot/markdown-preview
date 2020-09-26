@@ -12,10 +12,10 @@ export default class Preview extends Component {
             width: "90vh",
             padding: "10px",
             overflow: "auto",
-            backgroundColor: "#616161",
+            backgroundColor: "white",
             marginLeft: "10px",
             marginRight: "auto",
-            color: "#E0E0E0"
+            color: "#black"
         };
 
         return(
