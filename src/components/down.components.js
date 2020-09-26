@@ -10,6 +10,7 @@ export default class Down extends Component {
             resize: "none",
             padding: "5px",
             color: "#E0E0E0",
+            border: "none",
             backgroundColor: "#212121",
         };
 
